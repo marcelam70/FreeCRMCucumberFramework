@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1597160651774" stop="1597160655382" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Free CRM Login Test Scenario | marcela@test.com | test123@123 |</name>
+    <title>Free CRM Login Test Scenario | marcela@test.com | test123@123 |</title>
+    <test-cases>
+        <test-case start="1597160651806" stop="1597160651809" status="passed">
+            <name>Given user is already on Home Page</name>
+            <title>Given user is already on Home Page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Marcelas-MBP.fios-router.home"/>
+                <label name="thread" value="12274@Marcelas-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597160652106" stop="1597160652106" status="passed">
+            <name>When title of home page is Free CRM</name>
+            <title>When title of home page is Free CRM</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Marcelas-MBP.fios-router.home"/>
+                <label name="thread" value="12274@Marcelas-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597160654282" stop="1597160654282" status="passed">
+            <name>And user clicks on login button</name>
+            <title>And user clicks on login button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Marcelas-MBP.fios-router.home"/>
+                <label name="thread" value="12274@Marcelas-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597160654651" stop="1597160654651" status="passed">
+            <name>And user enters "marcela@test.com" and "test123@123"</name>
+            <title>And user enters "marcela@test.com" and "test123@123"</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Marcelas-MBP.fios-router.home"/>
+                <label name="thread" value="12274@Marcelas-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597160655278" stop="1597160655278" status="passed">
+            <name>Then user verify invalid login message on login page</name>
+            <title>Then user verify invalid login message on login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Marcelas-MBP.fios-router.home"/>
+                <label name="thread" value="12274@Marcelas-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Free CRM Login Test Scenario | marcela@test.com | test123@123 |"/>
+        <label name="feature" value="Free CRM Login Feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
